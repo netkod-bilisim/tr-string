@@ -1,0 +1,35 @@
+{
+  "name": "netkod-bilisim/tr-string",
+  "description": "It provides functions to help with the problem of converting Turkish text to uppercase and lowercase in PHP.",
+  "keywords": [
+    "php",
+    "turkish",
+    "uppercase",
+    "lowercase",
+    "tr",
+    "string",
+    "convert",
+    "convertion",
+    "convertion turkish",
+    "convertion turkish string"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Remzi DALYAN",
+      "email": "remzi.dalyan@netkodbilisim.com",
+      "role": "Software Engineer"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "ext-mbstring": "*"
+  },
+  "autoload": {
+    "files": [
+      "src/TrString.php"
+    ]
+  },
+  "minimum-stability": "dev"
+}
