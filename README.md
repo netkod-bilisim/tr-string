@@ -26,7 +26,7 @@
     <img src="https://scrutinizer-ci.com/g/netkod-bilisim/tr-string/badges/quality-score.png?b=master" alt="License">
 </a>
 
-<a href="https://github.styleci.io/repos/670171939?branch=master" rel="nofollow">
+<a href="https://github.styleci.io/repos/671509392?branch=master" rel="nofollow">
 <svg xmlns="http://www.w3.org/2000/svg" width="103" height="20">
 <g shape-rendering="crispEdges">
 <path fill="#555" d="M0 0h53v20H0z" />
