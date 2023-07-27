@@ -25,18 +25,8 @@
 <a href="https://scrutinizer-ci.com/g/netkod-bilisim/tr-string/badges/quality-score.png?b=master" rel="nofollow">
     <img src="https://scrutinizer-ci.com/g/netkod-bilisim/tr-string/badges/quality-score.png?b=master" alt="License">
 </a>
-
-<a href="https://github.styleci.io/repos/671509392?branch=master" rel="nofollow">
-<svg xmlns="http://www.w3.org/2000/svg" width="103" height="20">
-<g shape-rendering="crispEdges">
-<path fill="#555" d="M0 0h53v20H0z" />
-<path fill="#4c1" d="M53 0h50v20H53z" />
-</g>
-<g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-<text x="27.5" y="14">StyleCI</text>
-<text x="77" y="14">passed</text>
-</g>
-</svg>
+<a href="https://github.styleci.io/repos/671509392?branch=master">
+    <img src="https://github.styleci.io/repos/671509392/shield?branch=master" alt="StyleCI">
 </a>
 
 </div>
